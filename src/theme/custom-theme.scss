@@ -1,0 +1,32 @@
+//  Custom Global Styles
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700');
+
+* {
+  font-family: 'Source Sans Pro';
+}
+
+ion-toolbar {
+  // #000
+  --background: #2273c5;
+}
+
+ion-button ion-icon {
+  margin-right: 7px;
+}
+
+.md ion-buttons {
+  background: rgba(0, 0, 0, 0.15) !important;
+}
+
+.md .sc-ion-buttons-md-s ion-button {
+  --overflow: hidden;
+}
+
+.md ion-buttons:active {
+  background-color: rgba(0, 0, 0, 0.15) !important;
+}
+
+span.answer {
+  font-size: 0.7em;
+  color: #c1e6ff !important;
+}

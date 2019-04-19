@@ -1,0 +1,68 @@
+#logo {
+  max-width: 100px !important;
+}
+
+ion-button {
+  color: #fff;
+}
+
+.ios .ios-toolbar-ionbutton {
+  display: none;
+}
+
+.ios ion-note {
+  font-size: 12px;
+}
+
+.col {
+  padding: 0 !important;
+}
+
+#refresh {
+  float: right;
+}
+#colname {
+  text-transform: uppercase;
+  color: #466581;
+  margin: 13px 0 0 10px;
+  display: block;
+}
+
+ion-note {
+  color: #72c2f7;
+}
+
+.coin-item {
+  --ion-background-color: #1e4871 !important;
+  border-bottom: 1px solid #19232c !important;
+  color: #c1e6ff;
+}
+
+span.label {
+  text-transform: uppercase !important;
+  font-size: 0.7em;
+  color: #327eb1;
+  display: block;
+}
+
+span.answer {
+  font-size: 0.7em;
+}
+
+.end {
+  text-align: right;
+}
+
+.list-md ion-item-options .button {
+  height: 45px !important;
+  background-color: #19232c !important;
+}
+
+.list-md ion-item-options {
+  border-bottom: 0;
+}
+
+.size {
+  font-size: 28px;
+  padding: 10px;
+}
